@@ -6,7 +6,7 @@
 ## Установка:
 1. Клонируйте репозиторий:
 ```
-git clone [<ссылка на ваш репозиторий>](https://github.com/Mulhern1231/TextGuardian.git)
+git clone https://github.com/Mulhern1231/TextGuardian.git
 ```
 2. Перейдите в директорию проекта:
 ```
